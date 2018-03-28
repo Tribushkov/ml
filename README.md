@@ -1,5 +1,4 @@
-# ml
-Introduction to Machine Learning workshop
+# Introduction to Machine Learning workshop
 
 ```
 git clone https://github.com/tribushkov/ml.git
